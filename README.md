@@ -5,6 +5,8 @@
 
 Pacman clone made with Javascript, HTML, and CSS.
 
+Additions made by UniGib students for Cloud Computing assignments - CSS61501    
+
 ### _**[Play it!](https://bward2.github.io/pacman-js/)**_
 
 🍒🍓🍊🍎🍈👾🔔🔑
